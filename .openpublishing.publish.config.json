@@ -45,7 +45,7 @@
     ]
   },
   "targets": {	
-	  "pdf": {
+	  "Pdf": {
 	    "template_folder": "_themes.pdf"
 	  }
   },
